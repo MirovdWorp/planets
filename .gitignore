@@ -1,0 +1,9 @@
+# This is the git-ignore file.
+
+### Output-files.
+/output/*
+
+### Data-files.
+*.csv
+
+
