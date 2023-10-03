@@ -6,4 +6,6 @@
 ### Data-files.
 *.csv
 
+### specific folders
+/moons/*
 
